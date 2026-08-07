@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 
   description:
     "You are warmly invited to the wedding of Sreekkuttan and Athira on 13 September 2026.",
-
+   
   openGraph: {
     title: "Sreekkuttan & Athira — Wedding Invitation",
     description:
